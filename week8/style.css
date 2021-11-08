@@ -1,0 +1,14 @@
+.watch{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.time, .watch {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 3rem;
+background-color: lightblue;
+}
+
+
